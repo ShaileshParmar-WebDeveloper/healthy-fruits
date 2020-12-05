@@ -1,0 +1,60 @@
+.nutrition{
+   padding: 0 .3rem; 
+}
+
+.nutrition__menuList{
+    box-shadow: 0px 0px 6px 0px #00000078;
+    padding: 2.2rem 2.5rem;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+
+.top__heading{
+    font-weight: 500;
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+.dailyValue{
+    justify-content: flex-end !important;
+    
+}
+
+.listItem{
+    display: flex;
+    justify-content: space-between;
+    padding: .8rem 0;
+    font-size: 1.3rem;    
+}
+
+
+.inner {
+    padding-left: 1.3rem;
+}
+
+.bold {
+    font-weight: 500 !important;
+}
+
+.outline{
+    border-bottom: 1px solid #00000078;
+    font-weight: 300;
+}
+
+.thickBorderBottom {
+    border-bottom-width: 5px;
+    border-bottom-color: #000;
+}
+
+.heading{
+    font-size: 3rem !important;
+    
+}
+
+.nutrition__description{
+    padding: 1rem 0;
+    font-size: 1.1rem;
+}

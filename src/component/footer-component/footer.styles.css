@@ -1,0 +1,24 @@
+.footer__heading{
+    color: green;
+    padding: 5rem 4rem;
+    font-size: 1.5rem;
+}
+
+.footer__description{
+    border-top: 5px solid #000;
+    border-bottom: 5px solid #000;
+    padding-top: 1.5rem;
+    padding-bottom: 4rem;
+    margin-bottom: 2rem;
+}
+.footer__description > * {
+    margin-bottom: 1rem;
+}
+
+.footer__description h4{
+    font-size: 1.4rem;
+}
+
+.footer__description p{
+    font-size: 1.2rem;
+}
