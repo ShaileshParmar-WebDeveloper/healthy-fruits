@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/healthy-fruits/static/css/main.05a1c6ec.chunk.css",
+    "main.js": "/healthy-fruits/static/js/main.8d345031.chunk.js",
+    "main.js.map": "/healthy-fruits/static/js/main.8d345031.chunk.js.map",
+    "runtime-main.js": "/healthy-fruits/static/js/runtime-main.8e59d4b3.js",
+    "runtime-main.js.map": "/healthy-fruits/static/js/runtime-main.8e59d4b3.js.map",
+    "static/js/2.b194a6b3.chunk.js": "/healthy-fruits/static/js/2.b194a6b3.chunk.js",
+    "static/js/2.b194a6b3.chunk.js.map": "/healthy-fruits/static/js/2.b194a6b3.chunk.js.map",
+    "static/js/3.c3e5724d.chunk.js": "/healthy-fruits/static/js/3.c3e5724d.chunk.js",
+    "static/js/3.c3e5724d.chunk.js.map": "/healthy-fruits/static/js/3.c3e5724d.chunk.js.map",
+    "index.html": "/healthy-fruits/index.html",
+    "static/css/main.05a1c6ec.chunk.css.map": "/healthy-fruits/static/css/main.05a1c6ec.chunk.css.map",
+    "static/js/2.b194a6b3.chunk.js.LICENSE.txt": "/healthy-fruits/static/js/2.b194a6b3.chunk.js.LICENSE.txt",
+    "static/media/banner.96b91b86.jpg": "/healthy-fruits/static/media/banner.96b91b86.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e59d4b3.js",
+    "static/js/2.b194a6b3.chunk.js",
+    "static/css/main.05a1c6ec.chunk.css",
+    "static/js/main.8d345031.chunk.js"
+  ]
+}
